@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#064e3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="150" fill="#ecfdf5" opacity="0.14"/>
+  <path d="M302 115c-67 17-117 78-117 150 0 85 69 154 154 154 32 0 62-10 86-26-20 3-42 1-62-7-66-25-109-89-109-159 0-42 16-80 42-110 2-2 4-4 6-6z" fill="#fef3c7"/>
+  <path d="M330 180l9 27h28l-22 16 8 27-23-16-23 16 8-27-22-16h28z" fill="#fef3c7"/>
+  <text x="256" y="410" text-anchor="middle" font-size="54" font-family="Arial, sans-serif" fill="#ffffff">سبيل</text>
+</svg>
